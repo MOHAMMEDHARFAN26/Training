@@ -1,0 +1,10 @@
+
+package com.kctech.daytwo;
+
+public class StringBufferMo {
+    public static void main(String[] args) {
+        StringBuffer sb = new StringBuffer("Hello");
+        sb.reverse();
+        System.out.println(sb);
+    }
+}
