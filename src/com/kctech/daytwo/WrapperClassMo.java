@@ -3,7 +3,6 @@ package com.kctech.daytwo;
 
 public class WrapperClassMo {
     public static void main(String args[]){  
-	//Creating Wrapper class object 
   
       Integer a=34;
       
